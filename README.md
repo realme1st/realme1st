@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Noh%20SuBin&height=300&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Lee%20SeongMin&height=300&fontSize=60)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000E6&vCenter=true&width=435&height=60&lines=%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+About+Me!)](https://git.io/typing-svg)
